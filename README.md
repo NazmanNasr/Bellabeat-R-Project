@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NazmanNasr
 - 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning SQL, Python and R
+- 🌱 I’m currently creating portfolio and learning SQL, Python and R
+- Newbie to this git.
 
 
 <!---
