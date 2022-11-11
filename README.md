@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @NazmanNasr
-- 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently creating portfolio and learning SQL, Python and R
-- Newbie to this git.
+# Bellabeat Data Analysis Case Study 
+Welcome to Google Data Analytics Capstone Project. 
 
 
 <!---
