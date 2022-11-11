@@ -4,7 +4,7 @@ Welcome to Google Data Analytics Capstone Project.
 ![](images/Bellabeat.jpg)
 
 ```{r}
-"Hello world"
+library(tidyverse)
 ```
 
 
