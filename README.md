@@ -3,6 +3,10 @@ Welcome to Google Data Analytics Capstone Project.
 
 ![](images/Bellabeat.jpg)
 
+```{r}
+"Hello world"
+```
+
 
 <!---
 NazmanNasr/NazmanNasr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
