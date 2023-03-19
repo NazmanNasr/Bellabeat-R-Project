@@ -1,6 +1,4 @@
 # Bellabeat Data Analysis Case Study 
-Welcome to Google Data Analytics Capstone Project. 
-
 ![](images/Bellabeat.jpg)
 
 
